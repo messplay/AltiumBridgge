@@ -1,1 +1,1 @@
-A library for altium with a bridge open brdige , also usefull for solidworks pcb
+A library for altium with open solder bridge , also usefull for solidworks pcb
